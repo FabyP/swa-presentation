@@ -12,6 +12,10 @@
     color:#434343!important;
 }
 
+.white{
+    color: white!important;
+}
+
 
 /* Zweispalter */
 .col-container{
@@ -78,3 +82,4 @@ pre {
     right: 62%;
     bottom: 250px;
 }
+
