@@ -1,3 +1,3 @@
-# SAPUI5 vs. UI5 Web Components - UI5con presentation
+# SWA Abschlusspräsentation
 
-
+[Slides](https://fabyp.github.io/swa-presentation/#/ "iIntrovert Präsentation")
