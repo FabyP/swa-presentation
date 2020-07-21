@@ -216,13 +216,13 @@ body {
   transition: color .15s ease; }
 
 .reveal a:hover {
-  color: #008c15;
+  color: #42009e;
   text-shadow: none;
   border: none; }
 
 .reveal .roll span:after {
   color: #fff;
-  background: #007311; }
+  background: #42009e; }
 
 /*********************************************
  * IMAGES
