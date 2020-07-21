@@ -1,8 +1,8 @@
 {
-  "name": "ui5con-presentation",
+  "name": "swa-presentation",
   "version": "3.9.2",
-  "description": "Presentation for UI5con Belgium",
-  "homepage": "https://www.advades.com",
+  "description": "Presentation for SWA-Module",
+  "homepage": "https://www.thm.de/site/",
   "subdomain": "revealjs",
   "main": "js/reveal.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "author": {
     "name": "Fabienne Pipping",
-    "email": "f.pipping@advades.com"
+    "email": "fabienne.pipping@iem.thm.de"
   },
   "repository": {
     "type": "git",
@@ -39,5 +39,11 @@
     "node-sass": "^4.13.1",
     "socket.io": "^2.2.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "kind-of": "^6.0.3",
+    "lodash.update": "^4.10.2",
+    "minimist": "^1.2.5",
+    "websocket-extensions": "^0.1.4"
+  }
 }
