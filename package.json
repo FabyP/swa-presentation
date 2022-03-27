@@ -43,7 +43,7 @@
   "dependencies": {
     "kind-of": "^6.0.3",
     "lodash.update": "^4.10.2",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "websocket-extensions": "^0.1.4"
   }
 }
